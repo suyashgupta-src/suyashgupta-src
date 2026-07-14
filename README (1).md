@@ -15,7 +15,7 @@
 
 ---
 
-### 🙋 Who I Am
+###  Who I Am
 
 ```typescript
 const suyash = {
@@ -33,9 +33,9 @@ const suyash = {
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 🎥 YouTube Clone
+####  YouTube Clone
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=suyashgupta-src&repo=youtubeclone&theme=nord&border_color=7dd3fc" width="400"/>
 
@@ -51,7 +51,7 @@ A full-stack YouTube clone with video browsing, playback, and a responsive UI.
 
 <br clear="right"/>
 
-#### 🎬 Netflix GPT
+####  Netflix GPT
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=suyashgupta-src&repo=Netflix_gpt&theme=nord&border_color=7dd3fc" width="400"/>
 
@@ -69,7 +69,7 @@ An AI-powered movie recommendation app inspired by Netflix, suggesting films bas
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Frontend**
 <br>
@@ -81,7 +81,7 @@ An AI-powered movie recommendation app inspired by Netflix, suggesting films bas
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suyashgupta-src&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="48%" />
@@ -102,7 +102,7 @@ An AI-powered movie recommendation app inspired by Netflix, suggesting films bas
 
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 <div align="center">
 
